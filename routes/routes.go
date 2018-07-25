@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"log"
 	"net/http"
-	"zombie/config"
-	"zombie/controller"
+	"sobrevivenciaZumbie/config"
+	"sobrevivenciaZumbie/controller"
 
 	"github.com/gorilla/mux"
 )
